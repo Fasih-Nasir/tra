@@ -1,0 +1,64 @@
+body{
+    margin: 0pz;
+    padding: 0px; 
+    }
+    .fix{
+        position: fixed;
+        top: 50px;
+ width: 100px;
+    }
+    .fix{
+        background-color: white;
+            /* height: 20px; */
+        width: 60px;
+        position: fixed;
+        padding: 10px 15px;
+        top: 250px;
+        z-index: 99999;
+        box-shadow: rgba(0, 0, 0, 0.16) 3px 3px 6px, rgba(0, 0, 0, 0.23) 3px 3px 6px;
+        left: 0px;
+        
+        }
+        .fix  > a{
+            padding: 5px 0px;
+            font-size: 30px;
+        }
+        .fix  > a > img{
+            padding: 5px 0px;
+            font-size: 30px;
+        }
+        .fa-facebook-square{
+            /* background-color: blue; */
+            color: #0866ff;
+        }
+        .fa-twitter-square{
+            color: #1d9bf0;
+        }
+        .fa-whatsapp-square{
+        color:	#25D366;
+        }
+         .ins{
+            height: 27px;
+        }
+    #home{
+        border: 2px solid red;
+        height: 100vh;
+    }
+    #about{
+        border: 2px solid black;
+        height: 100vh;
+    }
+
+    #test{
+        border: 2px solid rgb(0, 13, 255);
+        height: 100vh;
+    }
+    
+    #contact{
+        border: 2px solid rgb(164, 142, 0);
+        height: 100vh;
+    }
+    footer{
+        background-color: black;
+        height: 400px;
+    }
